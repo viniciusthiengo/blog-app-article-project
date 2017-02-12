@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.3.0/5c43618ae2e514637c58474e9e9663c8f054b72f/realm-annotations-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5c43618ae2e514637c58474e9e9663c8f054b72f">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-2.3.0_b6fa2fd52c6208df05d2af13569c879af0ecaad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_f1fa21e19c374f6f3460bf53dbd8707001f532eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_d314648fc59546a2a60c4ca56deab1eb1830e863/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_1fb542bdbdf7ff3454a6f0ed250be44d4fab96ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.mikhaellopez/circularimageview/3.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikhaellopez-circularimageview-3.0.2_ed61468e0838541908aab069d08bb4b14c71b06d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_46382028d24311aaf6acfdf407586b959f51b088/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_1ac268669aac4046fd72975f62393562ffa358ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_06ace846db59ed040268ce32a45bc67d54a2de6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_d0a77610ded8dd08a5edf187c72c2ba1e3e7a3e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09c54123d5072d6ef9c985b9c2a81931c40208ed">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_26a328f38e7e277b596a7eec70ee37cf11319112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.1_160cefffd5044c3c37cffb7115e3f890802dfec3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.getkeepsafe.relinker-relinker-1.2.2_3b39e29fe1f544b9b36239523c381695052bd271/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_0d63a717f3e6a850cca165289734756698f68315/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_57b73afba42993a826611f2e1c3ec889fe3260dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_6093b5e5a783b48d2cf256ab9fd69d620e91bfb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_e321a210cae03d3854329ffec2b3a1efd0257b22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_49134010680c21e2c3c3c086a099b1ff0928cdb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_d1d3f0ad8e1da3c19edcd1fea9944e997be145d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/io.realm/realm-android-library/2.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d483779dc728392fefecb9a9650d01bac9e04d3b">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.realm-realm-android-library-2.3.0_813a3d8c2740db3e6c7a22bd587b5e9e1f9999b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="59874ae9107aa736978d2a66322b39faac4a5b85">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c2cd698edb686f2f6c30ed8e532acb160145d1b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_57ccd3046b536f0f758b578ad70bba3f1f66ddf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_90f68a4b043189093512c67a708d3f58ef813e82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_068d25008be9944c9f2f79f10b88915fb077c7ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/viniciusthiengo/Desktop/BlogAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_5f4c42133a1813bfa25f640e409c98c4b6f25d10/classes.dex" />
+    </item>
+
+</items>

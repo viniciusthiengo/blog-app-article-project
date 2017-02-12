@@ -1,0 +1,113 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": 1,
+      "lastPropertyId": 5,
+      "name": "User",
+      "properties": [
+        {
+          "id": 1,
+          "name": "id",
+          "refId": 2725815151038404108
+        },
+        {
+          "id": 4,
+          "name": "nome",
+          "refId": 2457025539911978661
+        },
+        {
+          "id": 5,
+          "name": "uriImagem",
+          "refId": 3899101578189095063
+        }
+      ],
+      "refId": 8472871129896305008
+    },
+    {
+      "id": 2,
+      "lastPropertyId": 7,
+      "name": "Post",
+      "properties": [
+        {
+          "id": 1,
+          "name": "id",
+          "refId": 588571022145556360
+        },
+        {
+          "id": 2,
+          "name": "titulo",
+          "refId": 27413231831256982
+        },
+        {
+          "id": 3,
+          "name": "uriImagem",
+          "refId": 3866687069458225574
+        },
+        {
+          "id": 4,
+          "name": "uriImagemBanner",
+          "refId": 7133821969703299730
+        },
+        {
+          "id": 5,
+          "name": "sumario",
+          "refId": 5655253571191179745
+        },
+        {
+          "id": 6,
+          "name": "conteudo",
+          "refId": 6143138902466973504
+        },
+        {
+          "id": 7,
+          "name": "ehFavorito",
+          "refId": 6650121652509535643
+        }
+      ],
+      "refId": 1978767467046986211
+    },
+    {
+      "id": 3,
+      "lastPropertyId": 4,
+      "name": "Comentario",
+      "properties": [
+        {
+          "id": 1,
+          "name": "id",
+          "refId": 135360083957217286
+        },
+        {
+          "id": 2,
+          "name": "mensagem",
+          "refId": 537212696163370652
+        },
+        {
+          "id": 3,
+          "indexId": 1,
+          "name": "userId",
+          "refId": 2755243371092761713
+        },
+        {
+          "id": 4,
+          "indexId": 2,
+          "name": "postId",
+          "refId": 8265989082496365263
+        }
+      ],
+      "refId": 6265696977647900705
+    }
+  ],
+  "lastEntityId": 3,
+  "lastIndexId": 2,
+  "lastSequenceId": 0,
+  "metaVersion": 1,
+  "retiredEntityRefIds": [],
+  "retiredPropertyRefIds": [
+    4584823776974528336,
+    6602008423843761393
+  ],
+  "version": 1
+}
