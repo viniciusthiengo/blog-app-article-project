@@ -4,14 +4,11 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 import br.com.thiengo.blogapp.R;
-import io.realm.RealmObject;
-import io.realm.annotations.PrimaryKey;
 
 
-public class Post extends RealmObject implements Parcelable {
+public class Post implements Parcelable {
     public static final String POSTS_KEY = "posts";
 
-    @PrimaryKey
     private long id;
     private String titulo;
     private String uriImagem;
