@@ -1,8 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light">
-        <item name="android:windowBackground">@color/colorActivityBackground</item>
+        <item name="android:windowBackground">@drawable/background</item>
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -15,4 +14,20 @@
 
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="LoginCustomTheme" parent="Theme.AccountKit">
+        <item name="com_accountkit_background">@drawable/background</item>
+        <item name="com_accountkit_background_color">#44ffffff</item>
+
+        <item name="com_accountkit_primary_color">@color/colorPrimary</item>
+        <item name="com_accountkit_primary_text_color">@color/colorPrimaryText</item>
+        <item name="com_accountkit_secondary_text_color">@color/colorPrimaryText</item>
+        <item name="com_accountkit_status_bar_color">@color/colorPrimaryDark</item>
+
+        <item name="com_accountkit_input_background_color">@color/colorPrimaryLight</item>
+        <item name="com_accountkit_input_text_color">@color/colorPrimaryDark</item>
+
+        <item name="com_accountkit_button_background_color">@color/colorPrimaryLight</item>
+        <item name="com_accountkit_button_text_color">@color/colorPrimaryDark</item>
+    </style>
 </resources>

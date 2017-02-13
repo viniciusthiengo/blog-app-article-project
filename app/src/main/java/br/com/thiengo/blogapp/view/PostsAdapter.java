@@ -17,7 +17,7 @@ import br.com.thiengo.blogapp.presenter.Post;
 
 public class PostsAdapter extends RecyclerView.Adapter<PostsAdapter.ViewHolder> {
 
-    private MainActivity context;
+    private PostsActivity context;
     private List<Post> posts;
 
     public class ViewHolder extends RecyclerView.ViewHolder{
@@ -46,7 +46,7 @@ public class PostsAdapter extends RecyclerView.Adapter<PostsAdapter.ViewHolder> 
         }
     }
 
-    public PostsAdapter(MainActivity context, List<Post> posts ){
+    public PostsAdapter(PostsActivity context, List<Post> posts ){
         this.context = context;
         this.posts = posts;
     }

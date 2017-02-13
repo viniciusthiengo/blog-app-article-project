@@ -2,19 +2,26 @@ package br.com.thiengo.blogapp.presenter;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
+
+import com.facebook.accountkit.Account;
+import com.facebook.accountkit.AccountKit;
+import com.facebook.accountkit.AccountKitCallback;
+import com.facebook.accountkit.AccountKitError;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import br.com.thiengo.blogapp.model.Model;
 import br.com.thiengo.blogapp.view.MainActivity;
+import br.com.thiengo.blogapp.view.PostsActivity;
 
 
 public class PresenterMain {
     private static PresenterMain instance;
     private Model model;
-    private MainActivity activity;
+    private PostsActivity activity;
     private ArrayList<Post> posts = new ArrayList<>();
 
 
@@ -29,7 +36,7 @@ public class PresenterMain {
         return instance;
     }
 
-    public void setActivity(MainActivity activity){
+    public void setActivity(PostsActivity activity){
         this.activity = activity;
     }
 

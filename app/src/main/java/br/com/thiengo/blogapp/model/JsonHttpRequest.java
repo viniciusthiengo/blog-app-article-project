@@ -14,9 +14,10 @@ import cz.msebera.android.httpclient.Header;
 
 
 public class JsonHttpRequest extends JsonHttpResponseHandler {
-    public static final String URI = "http://192.168.25.221:8888/blog-app/ctrl/CtrlPost.php";
+    public static final String URI = "http://seu_host/blog-app/ctrl/CtrlAdmin.php";
     public static final String METODO_KEY = "metodo";
     public static final String METODO_POSTS = "get-posts";
+    public static final String EMAIL_KEY = "email";
 
     private PresenterMain presenter;
 

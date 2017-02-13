@@ -36,7 +36,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
-        android:src="@drawable/ic_nao_favorito"/>
+        android:src="@drawable/ic_nao_favorito" />
 
     <TextView
         android:id="@+id/tv_sumario"

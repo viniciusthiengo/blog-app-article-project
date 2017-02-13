@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Blog APP</string>
+    <string name="FACEBOOK_APP_ID">1316176201772540</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">df750077b3ba7497561855af48a7492c</string>
+    <string name="ak_login_protocol_scheme">ak1316176201772540</string>
 </resources>

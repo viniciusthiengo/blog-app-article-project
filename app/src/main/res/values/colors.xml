@@ -2,7 +2,8 @@
 <resources>
     <color name="colorPrimaryDark">#388E3C</color>
     <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryText">@android:color/white</color>
+    <color name="colorPrimaryLight">#C8E6C9</color>
     <color name="colorAccent">#8BC34A</color>
     <color name="colorActivityBackground">#ffffff</color>
-    <color name="colorConteudoComCardView">#f0f0f0</color>
 </resources>
