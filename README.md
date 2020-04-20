@@ -1,6 +1,6 @@
 # Blog App - Account Kit Facebook (Java Android)
 
-**⚠🚫[DEPRECIADA] a API Account Kit se tornou depreciada em 9 de Março de 2020.**
+**⚠🚫[DEPRECIADA] a API Account Kit [se tornou obsoleta](https://developers.facebook.com/docs/accountkit?locale=pt_BR) em 9 de Março de 2020.**
 
 Projeto Java Android da segunda parte do artigo [Como Implementar o Account Kit Login em Seu Aplicativo Android](https://www.thiengo.com.br/como-implementar-o-account-kit-login-em-seu-aplicativo-android#title-09) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
 
